@@ -2,7 +2,7 @@
   name: github_action
   description: Metadata file for our GitHub triggered action
   runner_type: orquesta
-  entry_point: workflow/github_action.yaml
+  entry_point: workflows/github_action.yaml
   enabled: true
   parameters:
     payload:
