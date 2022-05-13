@@ -1,0 +1,9 @@
+---
+  ref: st2_git_pack
+  name: "My StackStorm Git Pack"
+  description: My collection of rules, sensors, workflows, and actions.
+  version: 0.0.1
+  author: Abhishek
+  email: noobmaster1112@outlook.com
+  dependencies:
+    - https://github.com/StackStorm-Exchange/stackstorm-git.git
